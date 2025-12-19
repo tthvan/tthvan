@@ -4,7 +4,7 @@ I'm a passionate **Data Analyst** with a **Scuba Diver’s** curiosity for explo
 
 ## Projects
 
-### 1. [Student Retention Analysis](https://github.com/tthvan/MVA-Retention-Analysis.git)
+### 1. [Retention Analysis](https://github.com/tthvan/MVA-Retention-Analysis.git)
 This project analyzes **student retention** and **dropout rates**, which directly impact the organization's revenue. The insights were presented to the Founder and Head of the TA-Research Team to inform strategies for improving student engagement and retention.
 
 ### 2. [Global University Database and Dashboard](https://github.com/tthvan/Global-University-Analysis.git)
