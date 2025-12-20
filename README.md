@@ -1,6 +1,6 @@
 # Hi there, I'm Hazel 👋
 
-I'm a passionate **Data Analyst** with a **Scuba Diver’s** curiosity for exploring new depths - whether in data or the ocean. With **Python, SQL, Excel, and Tableau**, I have experience in turning messy, raw data into clean datasets and clear, eye-catching dashboards for both technical and non-technical stakeholders.
+I'm a passionate **Data Analyst** with a **Scuba Diver’s** curiosity for exploring new depths - whether in data or the ocean. With **SQL, Excel, Tableau and Python**, I have experience in turning messy, raw data into clean datasets and clear, eye-catching dashboards for both technical and non-technical stakeholders.
 
 ## Projects
 
