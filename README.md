@@ -13,6 +13,13 @@ This project provides a relational **SQL database** designed to support a study 
 ### 3. [Classifying-Tech-Startups-for-Partnership](https://github.com/tthvan/ML-Classifying-Tech-Startups-for-Partnership.git)
 This project builds a simple, interpretable machine learning pipeline to help SME companies identify high-potential startup partners using only publicly available data on German digital tech startups.
 
+## Awards
+- **Dean’s Honour List (2019-2023)** - GPA **4.0/4.0 (A+)**
+- **Merit Scholarship (2019-2023)** - **$5,200**, awarded **5 consecutive years** (**Top 1/80 GPA**)
+- **AMCHAM Scholarship (2023)** - **$1,000**
+- **DAAD Study-Stay Scholarship (2022)** - **Full-ride** one-year exchange scholarship in Germany
+- **DAAD Sur-place Scholarship (2021)** - **$2,500**
+
 
 ## How to reach me:
 - Resume: [Most updated Resume](https://drive.google.com/file/d/1UWmrc2IpYzsbVXX9s8c5U3lBERiYKUjk/view?usp=sharing)
