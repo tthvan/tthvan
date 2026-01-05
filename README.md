@@ -15,6 +15,7 @@ This project builds a simple, interpretable machine learning pipeline to help SM
 
 
 ## How to reach me:
+- Resume: [Most updated Resume](https://drive.google.com/file/d/1UWmrc2IpYzsbVXX9s8c5U3lBERiYKUjk/view?usp=sharing)
 - LinkedIn: [Hazel Tran](https://www.linkedin.com/in/hazelvantran/)
 - Email: hazel.tthv@gmail.com
 
