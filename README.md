@@ -20,6 +20,8 @@ This project builds a simple, interpretable machine learning pipeline to help SM
 - **DAAD Study-Stay Scholarship (2022)** - **Full-ride** one-year exchange scholarship in Germany
 - **DAAD Sur-place Scholarship (2021)** - **$2,500**
 
+## Hobbies
+- Scuba Diving (Certified), Swimming, Digicams, Film Photography
 
 ## How to reach me:
 - Resume: [Most updated Resume](https://drive.google.com/file/d/1UWmrc2IpYzsbVXX9s8c5U3lBERiYKUjk/view?usp=sharing)
