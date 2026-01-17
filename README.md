@@ -15,7 +15,7 @@ This project builds a simple, interpretable machine learning pipeline to help SM
 
 ## Awards
 - **Accepted journal article (2026)** - Journal **Data Science in Finance and Economics** (DSFE)
-- **Accepted paper and Selected for Presentation (2025)** - Bahrain’s IEEE ETECOM25 Conference, Track **“Artificial Intelligence, Machine learning, and Business Analytics"**
+- **Accepted paper** and **Selected for Presentation (2025)** - Bahrain’s IEEE ETECOM25 Conference, Track **“Artificial Intelligence, Machine learning, and Business Analytics"**
 - **Dean’s Honour List (2019-2023)** - GPA **4.0/4.0 (A+)**
 - **Merit Scholarship (2019-2023)** - **$5,200**, awarded **5 consecutive years** (**Top 1/80 GPA**)
 - **AMCHAM Scholarship (2023)** - **$1,000**
