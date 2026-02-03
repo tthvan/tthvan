@@ -4,13 +4,16 @@ I'm a passionate **Data Analyst** with a **Scuba Diver’s** curiosity for explo
 
 ## Projects
 
-### 1. [Retention Analysis](https://github.com/tthvan/MVA-Retention-Analysis.git)
+### 1. [Insurance Benefit Experience Analysis](https://github.com/tthvan/Insurance-Benefit-Pricing)
+Created an Excel-based **Group Benefits Pricing & Experience Analysis Report** using simulated census and 12-month claims experience. The model calculates **manual premiums** (Health/Dental per-life rates; STD/LTD % of salary), **segments results by Class × Region**, and compares **Manual vs Experience** cost per life to identify loss drivers. Delivered a brief report highlighting exposure mix, favourable/unfavourable segments, and underwriting recommendations.
+
+### 2. [Retention Analysis](https://github.com/tthvan/MVA-Retention-Analysis.git)
 This project analyzes **student retention** and **dropout rates**, which directly impact the organization's revenue. The insights were presented to the Founder and Head of the TA-Research Team to inform strategies for improving student engagement and retention.
 
-### 2. [Global University Database and Dashboard](https://github.com/tthvan/Global-University-Analysis.git)
+### 3. [Global University Database and Dashboard](https://github.com/tthvan/Global-University-Analysis.git)
 This project provides a relational **SQL database** designed to support a study abroad agency in **organizing, comparing, and presenting global university information** in a reusable and data-driven way. A **Tableau dashboard** is also created to **improve engagement** with the end users (parents and students) by providing them a user-friendly dashboard to compare their dream universities.
 
-### 3. [Classifying-Tech-Startups-for-Partnership](https://github.com/tthvan/ML-Classifying-Tech-Startups-for-Partnership.git)
+### 4. [Classifying-Tech-Startups-for-Partnership](https://github.com/tthvan/ML-Classifying-Tech-Startups-for-Partnership.git)
 This project builds a simple, interpretable machine learning pipeline to help SME companies identify high-potential startup partners using only publicly available data on German digital tech startups.
 
 ## Awards
